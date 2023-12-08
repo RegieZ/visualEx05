@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87517dd9-f182-45a2-b538-2f2bc8363736" name="Changes" comment="" />
+    <list default="true" id="87517dd9-f182-45a2-b538-2f2bc8363736" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/Gouraud.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gouraud.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phong.frag" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Phong.vert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Mat4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/ShaderProg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Transform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Vec3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/Vec4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects/SObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects/SSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Objects/STeapot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VC04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex05.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,9 +44,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Reg/Abacws/Msc Computer Science/Projects/Ex05/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Reg\Abacws\Msc Computer Science\Projects\Ex05\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Reg\Abacws\Msc Computer Science\Projects\Ex05\src" />
+      <recent name="C:\Reg\Abacws\Msc Computer Science\Projects\Ex05" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +72,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702013054408</updated>
-      <workItem from="1702013055406" duration="1000" />
+      <workItem from="1702013055406" duration="1615000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1702013130778</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702013130778</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
